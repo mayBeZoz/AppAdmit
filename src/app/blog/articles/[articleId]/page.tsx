@@ -19,7 +19,7 @@ function ArticlePage({params}:ArticlePageProps) {
                     <img src={article.imageURL} alt="article image" className='w-full h-full object-cover rounded-lg' />
                 </div>
             }
-            <div className='mb-32 w-3/4'>
+            <div className='mb-32 md:w-3/4'>
                 <h3 className='text-2xl mb-16 first-letter:text-8xl first-letter:mr-2 first-letter:uppercase font-serif font-bold'>{article?.mainSection.heading}</h3>
                 <ul className="flex flex-col gap-8">
                     {
@@ -30,7 +30,7 @@ function ArticlePage({params}:ArticlePageProps) {
                 </ul>
             </div>
 
-            <div className='flex flex-col gap-10 w-3/4'>
+            <div className='flex flex-col gap-10 md:w-3/4'>
                 {
                     article?.sections.map((section,idx) => (
                         <div key={idx}>
