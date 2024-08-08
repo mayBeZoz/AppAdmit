@@ -21,8 +21,8 @@ const Nav = () => {
         <div className="flex items-center gap-6">
             <ul className='flex gap-9'>
                 {
-                    navLinks.map(link => (
-                        <li>
+                    navLinks.map((link,idx) => (
+                        <li key={idx}>
                             <Link 
                                 className='font-semibold text-sm lg:text-lg font-lexend' 
                                 href={link.href}
