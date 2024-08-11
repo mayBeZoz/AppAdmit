@@ -33,7 +33,10 @@ const Nav = () => {
                     ))
                 }
             </ul>
-            <div className="lg:flex hidden gap-2">
+ 
+            {
+                 /*
+                                   <div className="lg:flex hidden gap-2">
                 <Link 
                     className='main_blue_button !text-sm !px-4 ' 
                     href='/sign-in'
@@ -48,6 +51,8 @@ const Nav = () => {
                     Get Started
                 </Link>
             </div>
+                 */
+            }
         </div>
     )
 }
