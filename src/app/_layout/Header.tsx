@@ -6,12 +6,7 @@ import React from 'react'
 const Logo = () => {
     return (
         <Link href='/'>
-            <Image 
-                src="/svgs/logo.svg" 
-                alt="logo" 
-                width={190}
-                height={23}
-            />
+            <h1 className='text-2xl font-black'>AppAdmit</h1>
         </Link>
     )
 }
@@ -34,25 +29,23 @@ const Nav = () => {
                 }
             </ul>
  
-            {
-                 /*
-                                   <div className="lg:flex hidden gap-2">
-                <Link 
-                    className='main_blue_button !text-sm !px-4 ' 
-                    href='/sign-in'
-                >
-                    Sign In
-                </Link>
+            {/*             
+                <div className="lg:flex hidden gap-2">
+                    <Link 
+                        className='main_blue_button !text-sm !px-4 ' 
+                        href='/sign-in'
+                    >
+                        Sign In
+                    </Link>
 
-                <Link 
-                    className='py-3 px-4 text-sm font-semibold bg-slate-200 rounded-xl text-main-black font-lexend'
-                    href="/get-started"
-                >
-                    Get Started
-                </Link>
-            </div>
-                 */
-            }
+                    <Link 
+                        className='py-3 px-4 text-sm font-semibold bg-slate-200 rounded-xl text-main-black font-lexend'
+                        href="/get-started"
+                    >
+                        Get Started
+                    </Link>
+                </div>
+            */}
         </div>
     )
 }

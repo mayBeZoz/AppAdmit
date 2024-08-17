@@ -1,29 +1,82 @@
-import React from 'react'
+'use client'
+
+import React, { useEffect, useState } from 'react'
 import { IoSearchOutline } from 'react-icons/io5'
+import { useDebounce } from 'use-debounce'
+import articles from "../../../data/articles.json"
+import Link from 'next/link'
+
+const ArticlesSearchInput = () => {
+
+    const [value,setValue] = useState<string>('')
+    const [debounceSearchInput] = useDebounce(value,1000)
+    const [filteredArticles,SetFilteredArticles] = useState<TArticle[]>([])
+    const [isFocus,setIsFocus] = useState<boolean>(false)
+
+    useEffect(()=>{
+        setValue(value)
+    },[debounceSearchInput])
+
+    useEffect(()=>{
+        const res = articles.filter(article => article.heading.includes(value))
+        SetFilteredArticles(res)  
+    },[value])
+
+    return (
+        <div className='relative'>
+            <div className="w-full h-[60px] mt-5 flex justify-between p-2 bg-white rounded-xl">
+                <div className="flex-1 items-center ml-2 flex gap-2">
+                    <IoSearchOutline className='text-zinc-500 text-2xl'/>
+                    <input 
+                        onClick={() => {setIsFocus(true)}}
+                        type="text" 
+                        value={value} 
+                        placeholder='Search article' 
+                        className='flex-1 font-lexend text-lg h-full w-[100px]'
+                        onChange={(e) => {
+                            setValue(e.target.value)
+                            setIsFocus(true)
+                        }}
+                    />
+                </div>
+                <div className="main_blue_button ml-2 !h-full">Search</div>
+            </div>
+            {
+                isFocus && (
+                    <div onMouseLeave={()=> setIsFocus(false)} className="absolute bg-white rounded-lg shadow-lg left-0 w-full bg-red p-4 top-20">
+                        <ul>
+                            {       
+                                filteredArticles.map((article,idx) => (
+                                    <li key={idx} className='w-full text-lg p-2 rounded-lg hover:bg-zinc-200'>
+                                        <Link className='w-full h-full' href={`/blog/articles/${article.id}`}>{article.heading}</Link>
+                                    </li>
+                                ))
+                            }
+                        </ul>
+                    </div>
+                )
+            }
+        </div>
+    )
+}
 
 function Hero() {
     const heading = 'College Admissions'
     const text = 'an insight and advice form students and experts'
     return (
         <div className='container'>
-            <div className="relative flex items-end overflow-hidden pl-12 pb-6 pr-6 rounded-xl h-[480px]">
+            <div className="relative flex items-end pl-12 pb-6 pr-6  h-[480px]">
                 <img
                     src="/images/blog1.jpg" 
                     alt="img" 
-                    className='w-full absolute object-cover top-0 left-0 block h-full'
+                    className='w-full absolute rounded-xl object-cover top-0 left-0 block h-full'
                 />
                 <div className="relative z-20">
                     <div>
                         <h1 className='text-5xl font-lexend text-white font-black mb-2'>{heading}</h1>
                         <p className='text-white font-lexend font-light'>{text}</p>
                     </div>
-                    <div className="w-full h-[60px] mt-5 flex justify-between p-2 bg-white rounded-xl">
-                        <div className="flex-1 items-center ml-2 flex gap-2">
-                            <IoSearchOutline className='text-zinc-500 text-2xl'/>
-                            <input type="text" placeholder='Search article' className='flex-1 font-lexend text-lg h-full w-[100px]'/>
-                        </div>
-                        <div className="main_blue_button ml-2 !h-full">Search</div>
-                    </div>
+                    <ArticlesSearchInput/>
                 </div>
             </div>
         </div>
