@@ -29,24 +29,24 @@ export const navLinks = [
 
 export const services = [
     {
-        title:'Services',
-        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, doloribus.",
+        title:'Startups',
+        description:"Giving you advice on creating a lasting impact on your community and showing leadership in your application",
         icon:<IoMdSettings />
     },
     {
         title:'Internships',
-        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, doloribus.",
+        description:"Showing interest in your desired major, and creating a spike",
         icon:<PiGlobeSimple />
 
     },
     {
-        title:'Consulting',
-        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, doloribus.",
+        title:'Research',
+        description:"Furthering knowledge in your specific field and showing your dedication to the major you plan to pursue",
         icon:<GoGraph />
     },
     {
-        title:'Training',
-        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, doloribus.",
+        title:'Essays',
+        description:"Revealing your personality through your writing, and how you can appeal to admissions officers",
         icon:<GoPeople />
     }
 

@@ -9,7 +9,7 @@ type ServiceCardProps = {
 
 function ServiceCard({description,icon,title}:ServiceCardProps) {
     return (
-        <div className='w-full h-full rounded-xl border-zinc-300/80 border-2 p-3 flex flex-col justify-between'>
+        <div className='w-full h-full rounded-xl border-zinc-300/80 border-2 p-3 flex flex-col'>
             <div className='mb-2 text-2xl'>{icon}</div>
             <h6 className='text-xl font-bold mb-1'>{title}</h6>
             <p className='font-medium text-slate-500/80 '>{description}</p>

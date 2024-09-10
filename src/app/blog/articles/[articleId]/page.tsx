@@ -9,7 +9,7 @@ type ArticlePageProps = {
 
 function ArticlePage({params}:ArticlePageProps) {
     const article = articles.find(article => article.id === params.articleId)
-    console.log(article)
+
     return (
         <div className='container mt-20'>
             <h2 className='text-5xl md:text-6xl font-lexend capitalize text-center font-extrabold'>{article?.heading}</h2>

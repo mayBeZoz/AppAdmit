@@ -62,7 +62,7 @@ const ArticlesSearchInput = () => {
 
 function Hero() {
     const heading = 'College Admissions'
-    const text = 'an insight and advice form students and experts'
+    const text = 'an insight and advice from students and experts'
     return (
         <div className='container'>
             <div className="relative flex items-end pl-12 pb-6 pr-6  h-[480px]">
