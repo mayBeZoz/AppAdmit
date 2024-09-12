@@ -18,11 +18,6 @@ function ServiceCard({description,icon,title}:ServiceCardProps) {
 }
 
 
-const images = [
-    '/images/correcto.jpg',
-    '/images/illustration-office.jpg',
-    '/images/office2.jpg'
-]
 
 function Services() {
     const text1 = "AppAdmit helps students find the best research and internship opportunities, and gives them the tools to stand out in the application process. Here's how it works:"
@@ -38,15 +33,7 @@ function Services() {
                     services.map((curr,idx) => <ServiceCard {...curr} key={idx}/>)
                 }
             </div>
-            <div className="w-full mb-14 grid gap-4 grid-cols-[repeat(auto-fit,minmax(310px,1fr))]">
-                {
-                    images.map((src,idx) => (
-                        <div className='w-full overflow-hidden rounded-xl h-[200px]' key={idx}>
-                            <img src={src} alt={src} className='w-full h-full object-cover'/>
-                        </div>
-                    ))
-                }
-            </div>
+          
         </div>
     )
 }

@@ -8,7 +8,7 @@ type ArticleCard = {
 }
 const ArticleCard = ({imageURL,author,heading,id,mainSection,sections}:TArticle) => {
     return (
-        <Link href={`/blog/articles/${id}`} className='w-full'>
+        <Link href={`/blog/articles/${id}`} className='w-full duration-200 hover:bg-zinc-200 p-2 rounded-lg hover:scale-105'>
             <img 
                 src={imageURL} 
                 alt={heading+'image'}

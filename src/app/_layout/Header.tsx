@@ -19,7 +19,7 @@ const Nav = () => {
                     navLinks.map((link,idx) => (
                         <li key={idx}>
                             <Link 
-                                className='font-semibold text-sm lg:text-lg font-lexend' 
+                                className='font-semibold hover:text-zinc-500 duration-100 text-sm lg:text-lg font-lexend' 
                                 href={link.href}
                             >
                                 {link.name}
@@ -29,23 +29,6 @@ const Nav = () => {
                 }
             </ul>
  
-            {/*             
-                <div className="lg:flex hidden gap-2">
-                    <Link 
-                        className='main_blue_button !text-sm !px-4 ' 
-                        href='/sign-in'
-                    >
-                        Sign In
-                    </Link>
-
-                    <Link 
-                        className='py-3 px-4 text-sm font-semibold bg-slate-200 rounded-xl text-main-black font-lexend'
-                        href="/get-started"
-                    >
-                        Get Started
-                    </Link>
-                </div>
-            */}
         </div>
     )
 }
