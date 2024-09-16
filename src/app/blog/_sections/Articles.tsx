@@ -24,7 +24,7 @@ function Articles() {
     return (           
         <div className='my-10 container'>
             <h3 className='text-xl font-bold font-lexend mb-4'>Popular Articles</h3>
-            <div className='w-full grid gap-3 grid-cols-[repeat(auto-fit,minmax(300px,1fr))]'>
+            <div className='w-full grid gap-3 grid-cols-[repeat(auto-fit,300px)] justify-center'>
                 {
                     articles.map((curr:TArticle,idx) => (
                         <ArticleCard {...curr} key={idx}/>

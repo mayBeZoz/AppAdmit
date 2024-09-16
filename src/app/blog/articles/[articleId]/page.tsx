@@ -1,5 +1,7 @@
 import React from 'react'
 import articles from '../../../../data/articles.json'
+import { isListItem } from './_utils/isListItem'
+import { validateText } from './_utils/validateText'
 
 type ArticlePageProps = {
     params:{
@@ -30,18 +32,25 @@ function ArticlePage({params}:ArticlePageProps) {
                 </ul>
             </div>
 
-            <div className='flex flex-col gap-10 md:w-3/4'>
+            <div className='flex mb-32 flex-col gap-10 md:w-3/4'>
                 {
                     article?.sections.map((section,idx) => (
                         <div key={idx}>
                             <h4 className='text-4xl font-bold capitalize font-lexend'>{section.heading}</h4>
                             <ul className='mt-8 flex flex-col gap-8'>
                                 {
-                                    section.texts.map((txt,idx) => (
-                                        <li className='font-serif text-xl' key={idx}>
-                                            <p>{txt}</p>
-                                        </li>
-                                    ))
+                                    section.texts.map((txt,idx) => {
+                                        
+                                        return (
+                                            <li className='font-serif text-xl' style={
+                                                {
+                                                    marginLeft:isListItem(txt)?"1em":'0em'
+                                                }
+                                            } key={idx}>
+                                                <p>{validateText(txt)}</p>
+                                            </li>
+                                        )
+                                    })
                                 }
                             </ul>
                         </div>
