@@ -14,12 +14,19 @@ const ArticlesSearchInput = () => {
     const [isFocus,setIsFocus] = useState<boolean>(false)
 
     useEffect(()=>{
+        
         setValue(value)
     },[debounceSearchInput])
 
     useEffect(()=>{
-        const res = articles.filter(article => article.heading.includes(value))
-        SetFilteredArticles(res)  
+        const res = articles.filter(article => article.heading.toLowerCase().includes(value.toLowerCase()))
+        if (res.length) {
+            SetFilteredArticles(res)  
+            setIsFocus(true)
+        }else {
+            SetFilteredArticles([])  
+            setIsFocus(false)
+        }
     },[value])
 
     return (
@@ -35,24 +42,25 @@ const ArticlesSearchInput = () => {
                         className='flex-1 font-lexend text-lg h-full w-[100px]'
                         onChange={(e) => {
                             setValue(e.target.value)
-                            setIsFocus(true)
                         }}
                     />
                 </div>
-                <div className="main_blue_button ml-2 !h-full">Search</div>
+                <button className="main_blue_button ml-2 h-full">Search</button>
             </div>
             {
                 isFocus && (
                     <div onMouseLeave={()=> setIsFocus(false)} className="absolute bg-white rounded-lg shadow-lg left-0 w-full bg-red p-4 top-20">
-                        <ul>
+                        <div className='flex flex-col'>
                             {       
                                 filteredArticles.map((article,idx) => (
-                                    <li key={idx} className='w-full text-lg p-2 rounded-lg hover:bg-zinc-200'>
-                                        <Link className='w-full h-full' href={`/blog/articles/${article.id}`}>{article.heading}</Link>
-                                    </li>
+                                    <Link 
+                                        key={idx} 
+                                        className='w-full font-medium text-lg p-2 truncate rounded-lg hover:bg-zinc-200' 
+                                        href={`/blog/articles/${article.id}`}
+                                    >{article.heading}</Link>
                                 ))
                             }
-                        </ul>
+                        </div>
                     </div>
                 )
             }
