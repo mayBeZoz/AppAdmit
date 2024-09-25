@@ -25,52 +25,76 @@
                     "Choosing which school to apply REA or ED to can be a difficult decision, but we’re here to simplify the process for you!",
                     "ED Value is the comparison between early decision and regular recision acceptance rates. Keep in mind that the applicant pool for these schools in their Early Admissions phase may be much more competitive. When looking for a good “ED Value” school, you want the early acceptance rate to be around 2 or more times higher than regular acceptance rate; you also want to look for what percent of their class they accept in the early stage. Over fifty percent is typically a good number to go for when applying early. We’ve compiled a list of schools that would maximize your chances at getting in, and a list for schools that could possibly hinder or be ineffective in your ability to get accepted."
                 ]
-            },
-            {
-                "heading":"The Death Of Nonprofit Organizations in College Admissions",
-                "texts":[
-                    "Over the years, nonprofit organizations have played a pivotal role in the college admissions process, particularly for underrepresented and disadvantaged students. These organizations have provided essential resources, guidance, and support, leveling the playing field for those who might not otherwise have access to such opportunities. However, the landscape of college admissions is rapidly changing, raising the question: Are nonprofit organizations losing their influence or becoming obsolete in this space?",
-                    "1. The Rise of For-Profit Alternatives",
-                    "/list_item/- The increasing popularity of for-profit college counseling services, test prep companies, and online platforms has introduced stiff competition for traditional nonprofit organizations. These for-profits often have more resources, sophisticated technology, and marketing power, making it harder for nonprofits to compete.",
-                    "2. Changing Admissions Criteria",
-                    "/list_item/- With the move towards test-optional policies and a greater emphasis on holistic admissions processes, the traditional services offered by many nonprofits, such as SAT/ACT prep and college essay workshops, may no longer hold the same value. As colleges look for more diverse and holistic indicators of a student's potential, the role of nonprofits might need to evolve.",
-                    "3. Financial Challenges",
-                    "/list_item/- Many nonprofits are facing financial difficulties, particularly in the wake of economic downturns and changes in funding priorities. With fewer donations and grants available, some nonprofits may struggle to maintain their operations or innovate to meet the changing demands of the admissions landscape.",
-                    "4. Increased Access to Information",
-                    "/list_item/- The democratization of information through the internet has made college admissions advice and resources more widely available. Students can now access a wealth of free information online, diminishing the unique value proposition that many nonprofits once held.",
-                    "5. The Rise of Direct College Outreach",
-                    "/list_item/- Colleges and universities themselves are increasingly reaching out directly to students from underrepresented backgrounds, offering their own support and resources. This direct approach may reduce the reliance on third-party nonprofit organizations.",
-                    "6. Adaptation and Evolution",
-                    "Despite these challenges, many nonprofit organizations are adapting by expanding their services, leveraging technology, and forming partnerships with schools, colleges, and other nonprofits. Some are focusing on broader educational initiatives, such as financial literacy and career readiness, to stay relevant."
-                ]
-            },
+            }
+        ],
+        "author":{
+            "name":""
+        },
+        "id":"1"
+    },
+    {
+        "heading":"The Death Of Nonprofit Organizations in College Admissions",
+        "imageURL":"https://img.freepik.com/free-photo/students-sitting-together-table_23-2147656311.jpg?w=1380&t=st=1727232973~exp=1727233573~hmac=45fddd0bbacd7f4bca200f4cbd1554ed3e0ea73fd2a9bbea0293340edcc36372",
+        "mainSection":{
+            "heading":"Over the years, nonprofit organizations have played a pivotal role in the college admissions process, particularly for underrepresented and disadvantaged students. These organizations have provided essential resources, guidance, and support, leveling the playing field for those who might not otherwise have access to such opportunities. However, the landscape of college admissions is rapidly changing, raising the question: Are nonprofit organizations losing their influence or becoming obsolete in this space?",
+            "texts":[
+                "1. The Rise of For-Profit Alternatives",
+                "/list_item/- The increasing popularity of for-profit college counseling services, test prep companies, and online platforms has introduced stiff competition for traditional nonprofit organizations. These for-profits often have more resources, sophisticated technology, and marketing power, making it harder for nonprofits to compete.",
+                "2. Changing Admissions Criteria",
+                "/list_item/- With the move towards test-optional policies and a greater emphasis on holistic admissions processes, the traditional services offered by many nonprofits, such as SAT/ACT prep and college essay workshops, may no longer hold the same value. As colleges look for more diverse and holistic indicators of a student's potential, the role of nonprofits might need to evolve.",
+                "3. Financial Challenges",
+                "/list_item/- Many nonprofits are facing financial difficulties, particularly in the wake of economic downturns and changes in funding priorities. With fewer donations and grants available, some nonprofits may struggle to maintain their operations or innovate to meet the changing demands of the admissions landscape.",
+                "4. Increased Access to Information",
+                "/list_item/- The democratization of information through the internet has made college admissions advice and resources more widely available. Students can now access a wealth of free information online, diminishing the unique value proposition that many nonprofits once held.",
+                "5. The Rise of Direct College Outreach",
+                "/list_item/- Colleges and universities themselves are increasingly reaching out directly to students from underrepresented backgrounds, offering their own support and resources. This direct approach may reduce the reliance on third-party nonprofit organizations.",
+                "6. Adaptation and Evolution",
+                "Despite these challenges, many nonprofit organizations are adapting by expanding their services, leveraging technology, and forming partnerships with schools, colleges, and other nonprofits. Some are focusing on broader educational initiatives, such as financial literacy and career readiness, to stay relevant."
+            ]
+        },
+        "sections":[
             {
                 "heading":"Conclusion",
                 "texts":[
                     "While the role of nonprofit organizations in college admissions may be changing, it is not necessarily the end. Those that can innovate and adapt to the new realities of college admissions may continue to play a crucial role, albeit in a different capacity. The death of nonprofit organizations in this space may be less about an end and more about a transformation"
                 ]
-            },
-            {
-                "heading":"SAT vs ACT, and which is right for you (with resources)",
-                "texts":[
-                    "Opening: Choosing between the SAT and the ACT is a significant decision for high school students aiming for college admission. Both exams are widely accepted by colleges across the United States, but they differ in format, content, and style. Understanding these differences can help you make an informed decision about which test best aligns with your strengths and goals.",
-                    "The SAT consists of four sections: Reading, Writing & Language, Math (with a calculator), and Math (no calculator). There is also an optional essay, though it has been phased out in most test administrations. The SAT lasts for 3 hours, with an additional 50 minutes for the optional essay. It is scored on a scale of 400 to 1600, combining the Reading/Writing and Math sections. The SAT emphasizes evidence-based reading, complex math problems, and understanding context in reading passages.",
-                    "On the other hand, the ACT includes four sections: English, Math, Reading, and Science, with an optional Writing section. The ACT is 2 hours and 55 minutes long, with an additional 40 minutes for the optional essay. It is scored on a scale of 1 to 36, with each section contributing equally to the final score. The ACT tests more straightforward math questions, has a faster pace in reading, and includes a unique Science section, which assesses interpretation, analysis, and problem-solving.",
-                    "One of the key differences between the SAT and the ACT is the test style and question type. The SAT is known for its focus on critical thinking and problem-solving, with questions that are often more complex, requiring careful reading and interpretation. In contrast, the ACT tends to be more direct in its questioning style, with a faster pace, especially in the Reading section, where students must answer questions quickly. Although debatable, ",
-                    "Another difference lies in the Math section. The SAT divides its math section into two parts: one allowing calculator use and one without. It emphasizes algebra, problem-solving, and data analysis, with a few questions on advanced math topics. The ACT covers a broader range of topics, including more geometry and trigonometry, and allows calculator use throughout.",
-                    "A unique feature of the ACT is its Science section, which the SAT does not have. The ACT’s Science section tests your ability to interpret graphs, experiments, and scientific hypotheses. This section doesn’t require specific scientific knowledge but rather focuses on reasoning skills. While the SAT doesn’t have a dedicated Science section, scientific reasoning skills are tested through the Reading section.",
-                    "Timing is another important consideration. The SAT generally provides more time per question, which can be advantageous for students who prefer to work at a slower, more deliberate pace. The ACT, by contrast, has a more rapid pace, requiring students to answer questions quickly and efficiently. Due to the easier questions on the ACT, its easier to train for speed.",
-                    "When deciding which test is right for you, consider your strengths. If you excel in science and prefer straightforward questions, the ACT might be a better fit. If you’re stronger in critical reading and problem-solving, the SAT could be a better match. Taking practice tests for both exams can give you a feel for each and help you decide which one suits your test-taking style. Additionally, check the admissions requirements for the schools you’re interested in, as some colleges may have a preference for one test over the other, though most accept both.",
-                    "For ACT preparation, there aren’t as many free resources, but ActACT is the best free preparation. It provides lessons for all ACT topics, sample questions, indivial section practice questions from real tests, and multiple full practice tests. It also gives good schedules to follow and a For SAT preparation, Khan Academy offers free, personalized practice based on your PSAT/NMSQT results. The College Board website provides sample questions, test-day tips, and registration information. Popular SAT prep books include 'The Official SAT Study Guide' by College Board and 'SAT Prep Plus' by Kaplan. ",
-                    "Both the SAT and ACT have unique challenges and benefits. The best way to choose is to understand your strengths, take practice tests, and see which exam aligns better with your skills and test-taking style. Remember, colleges do not prefer one test over the other, so choose the one that allows you to showcase your abilities most effectively."
-                ]
-            },
-            {
-                "heading":"Your GPA isn’t the best; what should you do?",
-                "texts":[
-                    "As many people know, your GPA is the first thing If your GPA isn't as strong as you'd like, don't worry—there are still many ways to enhance your academic profile and increase your chances of success in college admissions or your future career. Here are some steps you can take:"
-                ]
-            },
+            }
+        ],
+        "author":{
+            "name":""
+        },
+        "id":"2"
+    },
+    {
+        "heading":"SAT vs ACT, and which is right for you (with resources)",
+        "imageURL":"https://images.squarespace-cdn.com/content/v1/53179f16e4b00113dae8b6c6/1457746527135-MGIHA3FPP5P7MNBK2FQS/image-asset.png?format=2500w",
+        "mainSection":{
+            "heading":"The SAT consists of four sections: Reading, Writing & Language, Math (with a calculator), and Math (no calculator). There is also an optional essay, though it has been phased out in most test administrations. The SAT lasts for 3 hours, with an additional 50 minutes for the optional essay. It is scored on a scale of 400 to 1600, combining the Reading/Writing and Math sections. The SAT emphasizes evidence-based reading, complex math problems, and understanding context in reading passages.",
+            "texts":[
+                "On the other hand, the ACT includes four sections: English, Math, Reading, and Science, with an optional Writing section. The ACT is 2 hours and 55 minutes long, with an additional 40 minutes for the optional essay. It is scored on a scale of 1 to 36, with each section contributing equally to the final score. The ACT tests more straightforward math questions, has a faster pace in reading, and includes a unique Science section, which assesses interpretation, analysis, and problem-solving.",
+                "One of the key differences between the SAT and the ACT is the test style and question type. The SAT is known for its focus on critical thinking and problem-solving, with questions that are often more complex, requiring careful reading and interpretation. In contrast, the ACT tends to be more direct in its questioning style, with a faster pace, especially in the Reading section, where students must answer questions quickly. Although debatable, ",
+                "Another difference lies in the Math section. The SAT divides its math section into two parts: one allowing calculator use and one without. It emphasizes algebra, problem-solving, and data analysis, with a few questions on advanced math topics. The ACT covers a broader range of topics, including more geometry and trigonometry, and allows calculator use throughout.",
+                "A unique feature of the ACT is its Science section, which the SAT does not have. The ACT’s Science section tests your ability to interpret graphs, experiments, and scientific hypotheses. This section doesn’t require specific scientific knowledge but rather focuses on reasoning skills. While the SAT doesn’t have a dedicated Science section, scientific reasoning skills are tested through the Reading section.",
+                "Timing is another important consideration. The SAT generally provides more time per question, which can be advantageous for students who prefer to work at a slower, more deliberate pace. The ACT, by contrast, has a more rapid pace, requiring students to answer questions quickly and efficiently. Due to the easier questions on the ACT, its easier to train for speed.",
+                "When deciding which test is right for you, consider your strengths. If you excel in science and prefer straightforward questions, the ACT might be a better fit. If you’re stronger in critical reading and problem-solving, the SAT could be a better match. Taking practice tests for both exams can give you a feel for each and help you decide which one suits your test-taking style. Additionally, check the admissions requirements for the schools you’re interested in, as some colleges may have a preference for one test over the other, though most accept both.",
+                "For ACT preparation, there aren’t as many free resources, but ActACT is the best free preparation. It provides lessons for all ACT topics, sample questions, indivial section practice questions from real tests, and multiple full practice tests. It also gives good schedules to follow and a For SAT preparation, Khan Academy offers free, personalized practice based on your PSAT/NMSQT results. The College Board website provides sample questions, test-day tips, and registration information. Popular SAT prep books include 'The Official SAT Study Guide' by College Board and 'SAT Prep Plus' by Kaplan. ",
+                "Both the SAT and ACT have unique challenges and benefits. The best way to choose is to understand your strengths, take practice tests, and see which exam aligns better with your skills and test-taking style. Remember, colleges do not prefer one test over the other, so choose the one that allows you to showcase your abilities most effectively."
+            ]
+        },
+        "sections":[],
+        "author":{
+            "name":""
+        },
+        "id":"3"
+    },
+    {
+        "heading":"Your GPA isn’t the best; what should you do?",
+        "imageURL":"https://mi-uploads-live.s3.amazonaws.com/wp-content/uploads/2018/05/22071446/low-gpa-investment-banking.jpg",
+        "mainSection":{
+            "heading":"As many people know, your GPA is the first thing If your GPA isn't as strong as you'd like, don't worry—there are still many ways to enhance your academic profile and increase your chances of success in college admissions or your future career. Here are some steps you can take:",
+            "texts":[] 
+        },
+        "sections":[
             {
                 "heading":"1. Identify the Problem Areas",
                 "texts":[
@@ -144,13 +168,18 @@
                     "Use your experience as motivation to plan for the future. Set realistic academic and career goals, and create a plan to achieve them. Whether that means improving your study habits, seeking out mentorship, or exploring new areas of interest, taking proactive steps will help you succeed.",
                     "Your GPA is just one part of your overall profile, and there are many ways to demonstrate your potential beyond it. By taking steps to improve, seeking help when needed, and focusing on your strengths, you can create a compelling narrative for future opportunities."
                 ]
-            },
-            {
-                "heading":"You’re in your Junior or Senior Year and Don’t Have ECs; what should you do?",
-                "texts":[
-                    "If you're in your junior or senior year of high school and don't have many extracurricular activities (ECs), it's not too late to start building a strong portfolio. While starting late can feel challenging, there are still plenty of opportunities to make an impact and showcase your interests and skills. Here’s what you can do:"
-                ]
-            },
+            }
+        ],
+        "id":"4"
+    },
+    {
+        "heading":"You’re in your Junior or Senior Year and Don’t Have ECs; what should you do?",
+        "imageURL":"https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection":{
+            "heading":"If you're in your junior or senior year of high school and don't have many extracurricular activities (ECs), it's not too late to start building a strong portfolio. While starting late can feel challenging, there are still plenty of opportunities to make an impact and showcase your interests and skills. Here’s what you can do:",
+            "texts":[]
+        },
+        "sections":[
             {
                 "heading":"1. Identify Your Interests and Passions",
                 "texts":[
@@ -230,12 +259,11 @@
                     "Starting your extracurricular involvement late doesn’t mean you’re at a disadvantage. By being strategic and focused, you can still build a strong profile that reflects your interests, talents, and potential. Take action now, and make the most of the opportunities available to you."
                 ]   
             }
-            
         ],
         "author":{
             "name":""
         },
-        "id":"1"
+        "id":"5"
     }
 
 ]

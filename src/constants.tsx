@@ -51,8 +51,3 @@ export const services = [
     }
 
 ]
-
-
-export const txtTypes = [
-    "/list_item/"
-]
