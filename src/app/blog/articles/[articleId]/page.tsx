@@ -24,9 +24,14 @@ function ArticlePage({params}:ArticlePageProps) {
                 <h3 className='text-2xl mb-16 first-letter:text-8xl first-letter:mr-2 first-letter:uppercase font-serif font-bold'>{article?.mainSection.heading}</h3>
                 <ul className="flex flex-col gap-8">
                     {
-                        article?.mainSection.texts.map((txt,idx) => <li key={idx} className='font-serif text-xl'>
-                            <p>{txt}</p>
-                        </li>)
+                        article?.mainSection.texts.map((txt,idx) => {
+                            const textResult = validateText(txt)
+                            return (
+                                <li className={`font-serif text-xl ${textResult.textStylesClassName}`} key={idx}>
+                                    <p>{textResult.txt}</p>
+                                </li>
+                            )
+                        })
                     }
                 </ul>
             </div>

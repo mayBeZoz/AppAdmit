@@ -14,7 +14,6 @@ const ArticlesSearchInput = () => {
     const [isFocus,setIsFocus] = useState<boolean>(false)
 
     useEffect(()=>{
-        
         setValue(value)
     },[debounceSearchInput])
 
@@ -22,10 +21,8 @@ const ArticlesSearchInput = () => {
         const res = articles.filter(article => article.heading.toLowerCase().includes(value.toLowerCase()))
         if (res.length) {
             SetFilteredArticles(res)  
-            setIsFocus(true)
         }else {
             SetFilteredArticles([])  
-            setIsFocus(false)
         }
     },[value])
 
@@ -35,8 +32,8 @@ const ArticlesSearchInput = () => {
                 <div className="flex-1 items-center ml-2 flex gap-2">
                     <IoSearchOutline className='text-zinc-500 text-2xl'/>
                     <input 
-                        onClick={() => {setIsFocus(true)}}
                         type="text" 
+                        onFocus={() => setIsFocus(true)}
                         value={value} 
                         placeholder='Search article' 
                         className='flex-1 font-lexend text-lg h-full w-[100px]'
@@ -49,7 +46,10 @@ const ArticlesSearchInput = () => {
             </div>
             {
                 isFocus && (
-                    <div onMouseLeave={()=> setIsFocus(false)} className="absolute bg-white rounded-lg shadow-lg left-0 w-full bg-red p-4 top-20">
+                    <div 
+                        className="absolute bg-white rounded-lg shadow-lg left-0 w-full bg-red p-4 top-20"
+                        onMouseLeave={() => setIsFocus(false)}
+                    >
                         <div className='flex flex-col'>
                             {       
                                 filteredArticles.map((article,idx) => (
@@ -59,6 +59,11 @@ const ArticlesSearchInput = () => {
                                         href={`/blog/articles/${article.id}`}
                                     >{article.heading}</Link>
                                 ))
+                            }
+                            {
+                                filteredArticles.length === 0 && (
+                                    <p className='text-center font-medium text-gray-500'>No results found</p>
+                                )
                             }
                         </div>
                     </div>
