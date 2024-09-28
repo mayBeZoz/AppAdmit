@@ -13,8 +13,8 @@ export default function RootLayout({children}:RootLayout) {
     return (
         <html lang="en">
             <head>
-            {/* <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4503779419255073"
-                crossOrigin="anonymous"></script> */}
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4503779419255073"
+                crossOrigin="anonymous"></script>
                 <meta name="google-adsense-account" content="ca-pub-4503779419255073"></meta>
                 <link rel="preconnect" href="https://fonts.googleapis.com"/>
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin=""/>

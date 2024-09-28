@@ -20,13 +20,16 @@ const AdComponent = () => {
 
     return (
         isMounted && (
-            <ins className="adsbygoogle"
-                style={{ display: "block" }}
-                data-ad-client="ca-pub-4503779419255073"
-                data-ad-slot={'7019800614'}
-                data-ad-format="auto"
-                data-full-width-responsive="true">
-            </ins>
+            <div className="container">
+                <ins 
+                    className="adsbygoogle"
+                    style={{ display: "block",width:"100%",height:'40px',backgroundColor:"#444" }}
+                    data-ad-client="ca-pub-4503779419255073"
+                    data-ad-slot={'7019800614'}
+                    data-ad-format="auto"
+                    data-full-width-responsive="true">
+                </ins>
+            </div>
         )
         
     )
