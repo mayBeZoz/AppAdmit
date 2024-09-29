@@ -10,7 +10,7 @@ function BlogPage() {
             <Hero/>
             {/* <Features/> */}
             <Articles/>
-            <AdComponent/>
+            {/* <AdComponent/> */}
         </>
     )
 }
