@@ -23,18 +23,20 @@ function Services() {
     const text1 = "AppAdmit helps students find the best research and internship opportunities, and gives them the tools to stand out in the application process. Here's how it works:"
 
     return (
-        <div className='container'>
-            <div className="mt-11 mb-10">
-                <h3 className='text-4xl font-black md:w-4/5 mb-4 text-main-black'>What we offer</h3>
-                <p className='w-3/4 text-main-black text-lg font-semibold '>{text1}</p>
-            </div>
-            <div className="w-full mb-16 grid gap-4 grid-cols-[repeat(auto-fit,minmax(230px,1fr))]">
-                {
-                    services.map((curr,idx) => <ServiceCard {...curr} key={idx}/>)
-                }
+        <section>
+            <div className="container">
+                <div className="mt-11 mb-10">
+                    <h3 className='text-4xl font-black mb-4 text-main-black'>What we offer</h3>
+                    <p className='w-3/4 text-main-black text-lg font-semibold '>{text1}</p>
+                </div>
+                <div className="w-full mb-16 grid gap-4 grid-cols-[repeat(auto-fit,minmax(230px,1fr))]">
+                    {
+                        services.map((curr,idx) => <ServiceCard {...curr} key={idx}/>)
+                    }
+                </div>
             </div>
           
-        </div>
+        </section>
     )
 }
 

@@ -1,5 +1,8 @@
+import { FaRegHeart, FaUsers } from "react-icons/fa"
 import { GoGraph, GoPeople } from "react-icons/go"
 import { IoMdSettings } from "react-icons/io"
+import { IoCompassOutline, IoPeople } from "react-icons/io5"
+import { LuKeyRound } from "react-icons/lu"
 import { PiGlobeSimple } from "react-icons/pi"
 
 export const navLinks = [
@@ -50,4 +53,33 @@ export const services = [
         icon:<GoPeople />
     }
 
+]
+
+
+export const about = [
+    {
+        title:'Find Your Path',
+        description:"Explore careers and majors, find schools that fit you, and get personalized guidance.",
+        icon:<IoCompassOutline />
+    },
+    {
+        title:'Get Expert Advice',
+        description:"Learn from students who've been through it, plus professional counselors and experts.",
+        icon:<FaUsers />
+    },
+    {
+        title:'Discover New Interests',
+        description:"Read about life at different colleges, try new activities, and get inspired by student stories.",
+        icon:<FaRegHeart />
+    },
+    {
+        title:'Connect with Others',
+        description:"Find friends, mentors, and study buddies to help you through the process.",
+        icon:<IoPeople />
+    },
+    {
+        title:'Unlock Your Potential',
+        description:"Develop your academic skills, build leadership experience, and become a well-rounded college applicant.",
+        icon:<LuKeyRound />
+    },
 ]

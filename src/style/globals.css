@@ -7,19 +7,25 @@
     --main-sky-white: #F7FAFA;
     --main-blac: #0D171C;
 }
-
-body {
-    @apply bg-main-sky-white text-main-black
-}
-
+  
 .container {
     @apply max-w-[980px] w-[90%]
 }
 
-button,input,textarea {
-    @apply outline-none
+@layer base {
+    body {
+        @apply bg-main-sky-white text-main-black
+    }
+  
+
+    button,input,textarea {
+        @apply outline-none
+    }
 }
 
-.main_blue_button {
-    @apply py-3 px-5 w-fit flex items-center justify-center text-sm font-semibold bg-main-blue rounded-xl text-white font-lexend
+
+@layer components {
+    .main_blue_button {
+        @apply py-3 px-5 w-fit flex items-center justify-center text-sm font-semibold bg-main-blue rounded-xl text-white font-lexend
+    }
 }
