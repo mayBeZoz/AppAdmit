@@ -24,7 +24,7 @@ function WhyUs() {
     const text1 = "We're more than just a college admissions blog. We're here to help you succeed in high school, college, and beyond."
 
     return (
-        <div className='container'>
+        <section className='container'>
             <div className="mt-11 mb-10">
                 <h3 className='text-4xl font-black mb-4 text-main-black'>Why AppAdmit?</h3>
                 <p className='w-3/4 text-main-black text-lg font-semibold '>{text1}</p>
@@ -35,7 +35,7 @@ function WhyUs() {
                 }
             </div>
           
-        </div>
+        </section>
     )
 }
 

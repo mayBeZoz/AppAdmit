@@ -5,7 +5,7 @@ function Hero() {
     const text1 = "The #1 Guide to College Admissions"
 
     return (
-        <div className='container'>
+        <section className='container'>
             <div className="relative flex items-end overflow-hidden pb-6 pr-6 rounded-xl h-[480px] p-16">
                 <img
                     src="/images/home1.jpg" 
@@ -16,7 +16,7 @@ function Hero() {
                     <h3 className='text-5xl mt-20 font-extrabold text-center font-lexend text-white'>{text1}</h3>
                 </div>
             </div>
-        </div>
+        </section>
     )
 }
 

@@ -11,14 +11,13 @@ type TPostCardProps = {
 
 const PostCard = ({description,imageURL,title,id}:TPostCardProps) => {
     return (
-        <Link href={`/blog/articles/${id}`} className="w-full h-[300px]">
+        <Link href={`/blog/articles/${id}`} className='w-full duration-200 hover:bg-zinc-200 p-2 rounded-lg hover:scale-105'>
             <img 
                 src={imageURL} 
-                alt={title} 
-                className="w-full mb-4 h-[170px] object-cover rounded-lg"
+                alt={title+' image'}
+                className='w-full h-[150px] object-cover rounded-xl  bg-black'
             />
-            <h5 className="mb-2 font-serif font-medium text-lg">{title}</h5>
-            <p className="text-[#4F7396] font-medium font-lexend">{description}</p>
+            <h6 className="w-5/6 mt-2 text-sm capitalize font-lexend font-medium ">{title}</h6>
         </Link>
     )
 }
