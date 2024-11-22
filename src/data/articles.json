@@ -1,20 +1,19 @@
 [
     {
-        "heading":"REA vs. ED, which should you apply and where?",
-        "imageURL":"https://t3.ftcdn.net/jpg/02/55/22/68/360_F_255226859_Rhqr5hflr2esVXHQE1sS1bWxmZxs0gWI.jpg",
-        "mainSection":{
-            "heading":"Restrictive Early Action (REA) is a non-binding early application option offered by a few selective colleges. With REA, you apply early (typically by November 1) and receive your admission decision in mid-December. However, if you’re accepted, you are not obligated to attend the school. This gives you the flexibility to apply to other schools during the regular decision process.",
-            "texts":[
+        "heading": "REA vs. ED, which should you apply and where?",
+        "imageURL": "https://t3.ftcdn.net/jpg/02/55/22/68/360_F_255226859_Rhqr5hflr2esVXHQE1sS1bWxmZxs0gWI.jpg",
+        "mainSection": {
+            "heading": "Restrictive Early Action (REA) is a non-binding early application option offered by a few selective colleges. With REA, you apply early (typically by November 1) and receive your admission decision in mid-December. However, if you’re accepted, you are not obligated to attend the school. This gives you the flexibility to apply to other schools during the regular decision process.",
+            "texts": [
                 "programs (like Early Action), you cannot apply to other private schools under their Early Decision or other restrictive programs. You may apply to public universities under their non-binding admission plans.",
                 "Early Decision (ED) is a binding early application process. Like REA, you apply early and receive a decision by mid-December, but if you’re accepted, you must withdraw all other college applications and commit to attending that school. ED is typically a good option if you have a clear first-choice college and are certain that you can afford to attend without comparing financial aid offers from other schools.Typically, this form of early action offers the highest acceptance rate, but it highly depends on the school.",
                 "Many colleges offer an ED II option, which usually has the same deadline as regular decision (but you get results earlier), allowing students more time to make their decision while still enjoying the potential admissions advantage that comes with applying early. The acceptance rates for college are typically higher than regular decision, but much lower than ED I. "
-
             ]
         },
-        "sections":[
-            {   
-                "heading":"Which Should You Choose?",
-                "texts":[
+        "sections": [
+            {
+                "heading": "Which Should You Choose?",
+                "texts": [
                     "Apply REA if:",
                     "/list_item/- You have a strong preference for a particular school but want the flexibility to compare financial aid offers and explore other options.You are not 100% certain about your first-choice school and want to keep ",
                     "/list_item/- your options open.The school you’re applying to is one of the few that offers REA and is your top choice, such as Stanford, Harvard, or Yale.",
@@ -27,19 +26,19 @@
                 ]
             }
         ],
-        "author":{
-            "name":""
+        "author": {
+            "name": ""
         },
-        "description":"",
-        "date":"",
-        "id":"1"
+        "description": "",
+        "date": "",
+        "id": "1"
     },
     {
-        "heading":"The Death Of Nonprofit Organizations in College Admissions",
-        "imageURL":"https://img.freepik.com/free-photo/students-sitting-together-table_23-2147656311.jpg?w=1380&t=st=1727232973~exp=1727233573~hmac=45fddd0bbacd7f4bca200f4cbd1554ed3e0ea73fd2a9bbea0293340edcc36372",
-        "mainSection":{
-            "heading":"Over the years, nonprofit organizations have played a pivotal role in the college admissions process, particularly for underrepresented and disadvantaged students. These organizations have provided essential resources, guidance, and support, leveling the playing field for those who might not otherwise have access to such opportunities. However, the landscape of college admissions is rapidly changing, raising the question: Are nonprofit organizations losing their influence or becoming obsolete in this space?",
-            "texts":[
+        "heading": "The Death Of Nonprofit Organizations in College Admissions",
+        "imageURL": "https://img.freepik.com/free-photo/students-sitting-together-table_23-2147656311.jpg?w=1380&t=st=1727232973~exp=1727233573~hmac=45fddd0bbacd7f4bca200f4cbd1554ed3e0ea73fd2a9bbea0293340edcc36372",
+        "mainSection": {
+            "heading": "Over the years, nonprofit organizations have played a pivotal role in the college admissions process, particularly for underrepresented and disadvantaged students. These organizations have provided essential resources, guidance, and support, leveling the playing field for those who might not otherwise have access to such opportunities. However, the landscape of college admissions is rapidly changing, raising the question: Are nonprofit organizations losing their influence or becoming obsolete in this space?",
+            "texts": [
                 "1. The Rise of For-Profit Alternatives",
                 "/list_item/- The increasing popularity of for-profit college counseling services, test prep companies, and online platforms has introduced stiff competition for traditional nonprofit organizations. These for-profits often have more resources, sophisticated technology, and marketing power, making it harder for nonprofits to compete.",
                 "2. Changing Admissions Criteria",
@@ -54,27 +53,27 @@
                 "Despite these challenges, many nonprofit organizations are adapting by expanding their services, leveraging technology, and forming partnerships with schools, colleges, and other nonprofits. Some are focusing on broader educational initiatives, such as financial literacy and career readiness, to stay relevant."
             ]
         },
-        "sections":[
+        "sections": [
             {
-                "heading":"Conclusion",
-                "texts":[
+                "heading": "Conclusion",
+                "texts": [
                     "While the role of nonprofit organizations in college admissions may be changing, it is not necessarily the end. Those that can innovate and adapt to the new realities of college admissions may continue to play a crucial role, albeit in a different capacity. The death of nonprofit organizations in this space may be less about an end and more about a transformation"
                 ]
             }
         ],
-        "author":{
-            "name":""
+        "author": {
+            "name": ""
         },
-        "description":"",
-        "date":"",
-        "id":"2"
+        "description": "",
+        "date": "",
+        "id": "2"
     },
     {
-        "heading":"SAT vs ACT, and which is right for you (with resources)",
-        "imageURL":"https://images.squarespace-cdn.com/content/v1/53179f16e4b00113dae8b6c6/1457746527135-MGIHA3FPP5P7MNBK2FQS/image-asset.png?format=2500w",
-        "mainSection":{
-            "heading":"The SAT consists of four sections: Reading, Writing & Language, Math (with a calculator), and Math (no calculator). There is also an optional essay, though it has been phased out in most test administrations. The SAT lasts for 3 hours, with an additional 50 minutes for the optional essay. It is scored on a scale of 400 to 1600, combining the Reading/Writing and Math sections. The SAT emphasizes evidence-based reading, complex math problems, and understanding context in reading passages.",
-            "texts":[
+        "heading": "SAT vs ACT, and which is right for you (with resources)",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/53179f16e4b00113dae8b6c6/1457746527135-MGIHA3FPP5P7MNBK2FQS/image-asset.png?format=2500w",
+        "mainSection": {
+            "heading": "The SAT consists of four sections: Reading, Writing & Language, Math (with a calculator), and Math (no calculator). There is also an optional essay, though it has been phased out in most test administrations. The SAT lasts for 3 hours, with an additional 50 minutes for the optional essay. It is scored on a scale of 400 to 1600, combining the Reading/Writing and Math sections. The SAT emphasizes evidence-based reading, complex math problems, and understanding context in reading passages.",
+            "texts": [
                 "On the other hand, the ACT includes four sections: English, Math, Reading, and Science, with an optional Writing section. The ACT is 2 hours and 55 minutes long, with an additional 40 minutes for the optional essay. It is scored on a scale of 1 to 36, with each section contributing equally to the final score. The ACT tests more straightforward math questions, has a faster pace in reading, and includes a unique Science section, which assesses interpretation, analysis, and problem-solving.",
                 "One of the key differences between the SAT and the ACT is the test style and question type. The SAT is known for its focus on critical thinking and problem-solving, with questions that are often more complex, requiring careful reading and interpretation. In contrast, the ACT tends to be more direct in its questioning style, with a faster pace, especially in the Reading section, where students must answer questions quickly. Although debatable, ",
                 "Another difference lies in the Math section. The SAT divides its math section into two parts: one allowing calculator use and one without. It emphasizes algebra, problem-solving, and data analysis, with a few questions on advanced math topics. The ACT covers a broader range of topics, including more geometry and trigonometry, and allows calculator use throughout.",
@@ -85,198 +84,1018 @@
                 "Both the SAT and ACT have unique challenges and benefits. The best way to choose is to understand your strengths, take practice tests, and see which exam aligns better with your skills and test-taking style. Remember, colleges do not prefer one test over the other, so choose the one that allows you to showcase your abilities most effectively."
             ]
         },
-        "sections":[],
-        "author":{
-            "name":""
+        "sections": [],
+        "author": {
+            "name": ""
         },
-        "description":"",
-        "date":"",
-        "id":"3"
+        "description": "",
+        "date": "",
+        "id": "3"
     },
     {
-        "heading":"Your GPA isn’t the best; what should you do?",
-        "imageURL":"https://mi-uploads-live.s3.amazonaws.com/wp-content/uploads/2018/05/22071446/low-gpa-investment-banking.jpg",
-        "mainSection":{
-            "heading":"As many people know, your GPA is the first thing If your GPA isn't as strong as you'd like, don't worry—there are still many ways to enhance your academic profile and increase your chances of success in college admissions or your future career. Here are some steps you can take:",
-            "texts":[] 
+        "heading": "Your GPA isn’t the best; what should you do?",
+        "imageURL": "https://mi-uploads-live.s3.amazonaws.com/wp-content/uploads/2018/05/22071446/low-gpa-investment-banking.jpg",
+        "mainSection": {
+            "heading": "As many people know, your GPA is the first thing If your GPA isn't as strong as you'd like, don't worry—there are still many ways to enhance your academic profile and increase your chances of success in college admissions or your future career. Here are some steps you can take:",
+            "texts": []
         },
-        "sections":[
+        "sections": [
             {
-                "heading":"1. Identify the Problem Areas",
-                "texts":[
+                "heading": "1. Identify the Problem Areas",
+                "texts": [
                     "Start by identifying the subjects or courses where your grades are lower. Is there a specific subject you find challenging? Are there study habits you could improve? Pinpointing the issues will help you focus on what needs improvement."
                 ]
             },
             {
-                "heading":"2. Seek Help",
-                "texts":[
+                "heading": "2. Seek Help",
+                "texts": [
                     "Don't be afraid to ask for help. Reach out to your teachers, academic advisors, or tutors for assistance. Sometimes, a little extra guidance can make a big difference. Many schools also offer free tutoring services or study groups, which can provide additional support."
                 ]
             },
             {
-                "heading":"3. Focus on Improvement",
-                "texts":[
+                "heading": "3. Focus on Improvement",
+                "texts": [
                     "Admissions committees and employers appreciate students who show a strong upward trend in their academic performance. If your GPA started low but has improved over time, this can demonstrate resilience, dedication, and the ability to overcome challenges."
                 ]
             },
             {
-                "heading":"4. Take Advantage of Extra Credit Opportunities",
-                "texts":[
+                "heading": "4. Take Advantage of Extra Credit Opportunities",
+                "texts": [
                     "Some teachers offer extra credit assignments or projects that can boost your grade. Take advantage of these opportunities to raise your GPA and demonstrate your commitment to improving. If your teacher doesn’t offer extra credit, it wouldn’t hurt to reach out to them and kindly request for some or propose an idea."
                 ]
             },
             {
-                "heading":"5. Consider Retaking Courses",
-                "texts":[
+                "heading": "5. Consider Retaking Courses",
+                "texts": [
                     "If possible, retake classes where you received a particularly low grade. Many schools allow you to replace the old grade with the new one, which can significantly improve your GPA."
                 ]
             },
             {
-                "heading":"6. Balance Your Course Load",
-                "texts":[
+                "heading": "6. Balance Your Course Load",
+                "texts": [
                     "If you're struggling to maintain a high GPA, consider balancing your course load with classes where you're more confident of success. Mixing challenging courses with ones that play to your strengths can help maintain a higher overall GPA."
                 ]
             },
             {
-                "heading":"7. Highlight Your Strengths",
-                "texts":[
+                "heading": "7. Highlight Your Strengths",
+                "texts": [
                     "If your GPA isn’t as high as you’d like, focus on other aspects of your application or resume that can compensate. This could include strong standardized test scores (SAT, ACT), extracurricular achievements, leadership roles, volunteer work, or any unique talents or skills."
                 ]
             },
             {
-                "heading":"8. Showcase a Strong Personal Statement or Essay",
-                "texts":[
+                "heading": "8. Showcase a Strong Personal Statement or Essay",
+                "texts": [
                     "In college applications, a well-written personal statement can help offset a lower GPA. Use this opportunity to explain any challenges you’ve faced and how you’ve worked to overcome them. Be honest and reflective, showing how these experiences have contributed to your personal growth."
                 ]
             },
             {
-                "heading":"9. Consider Alternative Pathways",
-                "texts":[
+                "heading": "9. Consider Alternative Pathways",
+                "texts": [
                     "If your GPA makes it challenging to get into your dream school, consider starting at a community college and then transferring to a four-year university. Many students find this route successful and can save money while improving their academic record."
                 ]
             },
             {
-                "heading":"10. Maintain a Positive Attitude",
-                "texts":[
+                "heading": "10. Maintain a Positive Attitude",
+                "texts": [
                     "A lower GPA doesn’t define your future. Stay positive, stay focused, and keep working hard. Many successful people faced academic challenges early on but went on to achieve great things through perseverance and determination."
                 ]
             },
             {
-                "heading":"11. Gain Real-World Experience",
-                "texts":[
+                "heading": "11. Gain Real-World Experience",
+                "texts": [
                     "If you're worried about your GPA's impact on your career prospects, gaining real-world experience through internships, part-time jobs, or volunteering can help bolster your resume. Employers often value hands-on experience and practical skills as much as academic performance."
                 ]
             },
             {
-                "heading":"12. Plan for the Future",
-                "texts":[
+                "heading": "12. Plan for the Future",
+                "texts": [
                     "If your GPA isn’t as high as you’d like, focus on other aspects of your application or resume that can compensate. This could include strong standardized test scores (SAT, ACT), extracurricular achievements, leadership roles, volunteer work, or any unique talents or skills.",
                     "Use your experience as motivation to plan for the future. Set realistic academic and career goals, and create a plan to achieve them. Whether that means improving your study habits, seeking out mentorship, or exploring new areas of interest, taking proactive steps will help you succeed.",
                     "Your GPA is just one part of your overall profile, and there are many ways to demonstrate your potential beyond it. By taking steps to improve, seeking help when needed, and focusing on your strengths, you can create a compelling narrative for future opportunities."
                 ]
             }
         ],
-        "author":{
-            "name":""
+        "author": {
+            "name": ""
         },
-        "description":"",
-        "date":"",
-        "id":"4"
+        "description": "",
+        "date": "",
+        "id": "4"
     },
     {
-        "heading":"You’re in your Junior or Senior Year and Don’t Have ECs; what should you do?",
-        "imageURL":"https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
-        "mainSection":{
-            "heading":"If you're in your junior or senior year of high school and don't have many extracurricular activities (ECs), it's not too late to start building a strong portfolio. While starting late can feel challenging, there are still plenty of opportunities to make an impact and showcase your interests and skills. Here’s what you can do:",
-            "texts":[]
+        "heading": "You’re in your Junior or Senior Year and Don’t Have ECs; what should you do?",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "If you're in your junior or senior year of high school and don't have many extracurricular activities (ECs), it's not too late to start building a strong portfolio. While starting late can feel challenging, there are still plenty of opportunities to make an impact and showcase your interests and skills. Here’s what you can do:",
+            "texts": []
         },
-        "sections":[
+        "sections": [
             {
-                "heading":"1. Identify Your Interests and Passions",
-                "texts":[
+                "heading": "1. Identify Your Interests and Passions",
+                "texts": [
                     "Start by identifying what genuinely interests you. Whether it's a subject you're passionate about, a hobby you enjoy, or a cause you care deeply about, focus on areas that you find meaningful. This will make it easier to stay motivated and committed to the activities you choose."
                 ]
             },
             {
-                "heading":"2. Pursue Independent Projects",
-                "texts":[
+                "heading": "2. Pursue Independent Projects",
+                "texts": [
                     "If formal extracurriculars are hard to come by, consider pursuing independent projects. This could include starting a blog, creating a YouTube channel, writing a research paper, developing a mobile app, or organizing a small event. Independent projects can be just as impressive as traditional extracurriculars, especially if they reflect your passion and creativity."
                 ]
             },
             {
-                "heading":"3. Volunteer in Your Community",
-                "texts":[
+                "heading": "3. Volunteer in Your Community",
+                "texts": [
                     "Volunteering is a great way to get involved quickly and make a positive impact. Look for local nonprofits, community centers, hospitals, or other organizations where you can volunteer. Whether it's helping out at a food bank, tutoring younger students, or participating in community clean-up efforts, volunteering can demonstrate your commitment to service and community involvement."
                 ]
             },
             {
-                "heading":"4. Take on Leadership Roles",
-                "texts":[
+                "heading": "4. Take on Leadership Roles",
+                "texts": [
                     "If you're joining clubs or organizations, aim for leadership positions, even if they're small. Being a club officer, committee chair, or project leader can help you stand out. Leadership roles demonstrate responsibility, initiative, and the ability to motivate others."
                 ]
             },
             {
-                "heading":"5. Participate in School Events and Competitions",
-                "texts":[
+                "heading": "5. Participate in School Events and Competitions",
+                "texts": [
                     "Get involved in school events, competitions, or talent shows. Whether it's academic competitions, sports, or arts, participating in these events can help you build your extracurricular profile quickly. These activities often provide opportunities to showcase your talents and earn awards or recognition."
                 ]
             },
             {
-                "heading":"6. Join Clubs and Organizations",
-                "texts":[
+                "heading": "6. Join Clubs and Organizations",
+                "texts": [
                     "Even in your junior or senior year, you can still join school clubs or organizations that align with your interests. Look for clubs that are active and offer opportunities for leadership or significant involvement. If your school doesn’t have a club that matches your interests, consider starting one. This shows initiative and leadership."
                 ]
             },
             {
-                "heading":"7. Enroll in Online Courses or Certifications",
-                "texts":[
+                "heading": "7. Enroll in Online Courses or Certifications",
+                "texts": [
                     "Taking online courses or earning certifications in areas that interest you can also count as extracurricular involvement. Websites like Coursera, edX, or Khan Academy offer courses in various subjects. Completing these courses shows your dedication to learning beyond the classroom."
                 ]
             },
             {
-                "heading":"8. Engage in Summer Programs",
-                "texts":[
+                "heading": "8. Engage in Summer Programs",
+                "texts": [
                     "If you have a summer break before applying to colleges, consider enrolling in a summer program or internship. Many colleges, universities, and organizations offer summer programs in various fields, including science, technology, arts, and leadership. These programs can be an excellent way to gain experience and make up for a lack of earlier involvement."
                 ]
             },
             {
-                "heading":"9. Network and Seek Mentorship",
-                "texts":[
+                "heading": "9. Network and Seek Mentorship",
+                "texts": [
                     "Reach out to teachers, counselors, or professionals in your area of interest who can provide guidance and help you find opportunities. Networking can lead to internships, shadowing experiences, or other extracurricular activities that you might not have found on your own."
                 ]
             },
             {
-                "heading":"10. Document Your Experiences",
-                "texts":[
+                "heading": "10. Document Your Experiences",
+                "texts": [
                     "Keep a detailed record of your extracurricular activities, including any leadership roles, projects, and accomplishments. Documenting your experiences will help you effectively present them in your college applications or resumes. Reflect on what you learned and how these activities contributed to your personal growth."
                 ]
             },
             {
-                "heading":"11. Explain Your Late Start in Applications",
-                "texts":[
+                "heading": "11. Explain Your Late Start in Applications",
+                "texts": [
                     "If you’re applying to colleges or jobs, use your personal statement or interview to explain why you started your extracurricular activities later. Focus on what you’ve learned, how you’ve grown, and the steps you took to make up for the lost time. Admissions officers and employers value resilience and the ability to take initiative, even if it comes later."
                 ]
             },
             {
-                "heading":"12. Focus on Quality Over Quantity",
-                "texts":[
+                "heading": "12. Focus on Quality Over Quantity",
+                "texts": [
                     "Rather than trying to fill your resume with as many activities as possible, focus on a few meaningful ones where you can make a significant impact. Depth of involvement and genuine passion are often more impressive than a long list of superficial activities. Work on writing your descriptions well and conveying your responsibilities."
                 ]
             },
             {
-                "heading":"13. Don’t Stress—Do Your Best",
-                "texts":[
+                "heading": "13. Don’t Stress—Do Your Best",
+                "texts": [
                     "It’s easy to feel overwhelmed if you’re starting late, but remember that everyone’s path is different. Do the best you can with the time you have, and focus on what you can control. Colleges and employers look for well-rounded individuals, so stay positive and proactive.",
                     "Starting your extracurricular involvement late doesn’t mean you’re at a disadvantage. By being strategic and focused, you can still build a strong profile that reflects your interests, talents, and potential. Take action now, and make the most of the opportunities available to you."
-                ]   
+                ]
             }
         ],
-        "author":{
-            "name":""
+        "author": {
+            "name": ""
         },
-        "description":"",
-        "date":"",
-        "id":"5"
+        "description": "",
+        "date": "",
+        "id": "5"
+    },
+    {
+        "heading": "The Effect of Yield Protection on College Admissions",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "In recent years, a controversial practice known as ''yield protection'' has been making waves in the college admissions landscape, leaving many high-achieving students and their families puzzled and frustrated.",
+            "texts": [
+                "Yield protection, sometimes referred to as ''Tufts Syndrome'',is the practice where colleges reject or waitlist highly qualified applicants who they believe are unlikely to enroll if admitted"
+            ]
+        },
+        "sections": [
+            {
+                "heading": "What is Yield Protection?",
+                "texts": [
+                    "Yield protection, sometimes referred to as ''Tufts Syndrome,'' is the practice where colleges reject or waitlist highly qualified applicants who they believe are unlikely to enroll if admitted",
+                    "This strategy is employed by some institutions to maintain or improve their yield rate - the percentage of admitted students who choose to attend."
+                ]
+            },
+            {
+                "heading": "The Numbers Game",
+                "texts": [
+                    "Colleges are increasingly focused on their yield rates, which can impact their rankings and perceived desirability. According to the National Association for College Admission Counseling, the average yield rate for four-year colleges is about 30%. However, elite institutions like Harvard and Stanford boast yield rates of 80-85%, setting a high bar for other schools"
+                ]
+            },
+            {
+                "heading": "Impact on Applicants",
+                "texts": [
+                    "For students, yield protection can lead to confusing and seemingly illogical admissions results. A student might be rejected from a less selective school while gaining admission to more prestigious institutions2. This phenomenon has left many questioning the fairness and transparency of the admissions process."
+                ]
+            },
+            {
+                "heading": "Strategies Employed by Colleges",
+                "texts": [
+                    "To protect their yield, some colleges have adopted various tactics:",
+                    "/list_item/1. Increased use of Early Decision programs",
+                    "/list_item/2. Careful waitlist management",
+                    "/list_item/3. Tracking of demonstrated interest"
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    "Tulane University, for example, admitted two-thirds of its class through Early Decision rounds in 2022, leaving minimal spots for Regular Decision applicants"
+                ]
+            },
+            {
+                "heading": "The Debate Continues",
+                "texts": [
+                    "While no college openly admits to practicing yield protection, the evidence suggests it occurs at some institutions. Dr. Kat Cohen, a leading admissions expert, notes, ''Yield protection is a real phenomenon, but it's important to remember that admissions decisions are based on multiple factors, not just an applicant's perceived likelihood of enrollment.''"
+                ]
+            },
+            {
+                "heading": "Implications for Applicants",
+                "texts": [
+                    "For students navigating the college admissions process, understanding yield protection is crucial. Experts advise:",
+                    "/list_item/1. Demonstrating genuine interest in target schools",
+                    "/list_item/2. Carefully considering Early Decision options",
+                    "/list_item/3. Maintaining a balanced college list"
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    "As the admissions landscape continues to evolve, yield protection remains a contentious issue. While it may help colleges manage their enrollment more effectively, it adds another layer of complexity and uncertainty for applicants in an already stressful process."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "6"
+    },
+    {
+        "heading": "''Demystifying'' the College Admissions Process",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "Applying to college can be overwhelming. Between deadlines, forms, and essays, it may feel like an intimidating process—but breaking it down into clear steps can help you approach each part with confidence. Here’s a guide to simplify and streamline your college application journey:",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "Start with Research",
+                "texts": [
+                    "Finding the right college is a personal journey. Start by identifying schools that align with your interests, values, and goals. Consider what matters most: Do you want a large university or a smaller liberal arts college? A campus close to home or one across the country? Many schools now offer virtual tours, which can help you get a feel for campus life even from afar."
+                ]
+            },
+            {
+                "heading": "Prepare for Standardized Tests",
+                "texts": [
+                    "While many colleges have adopted test-optional policies, standardized tests like the SAT or ACT are still required or recommended by some schools. If you decide to take these tests, start prepping early. Practice tests, online courses, and even free resources from the College Board can help you feel prepared and confident on test day."
+                ]
+            },
+            {
+                "heading": "Craft Your Personal Statement",
+                "texts": [
+                    "Your personal statement is where you can truly express who you are. Instead of listing achievements, share a story that highlights your unique perspective or growth. Remember, admissions officers want to get to know you beyond your GPA and test scores. Write authentically, revise carefully, and give yourself plenty of time to perfect your essay."
+                ]
+            },
+            {
+                "heading": "Request Letters of Recommendation",
+                "texts": [
+                    "Letters of recommendation provide a glimpse into your character, work ethic, and potential. When choosing who to ask, consider teachers or mentors who know you well and can speak to your strengths. ",
+                    "Be sure to request recommendations well in advance, so your teachers have plenty of time to write thoughtfully."
+                ]
+            },
+            {
+                "heading": "Tackle Financial Aid Applications",
+                "texts": [
+                    "Don’t let finances discourage you from applying to your dream schools. The FAFSA (Free Application for Federal Student Aid) opens on October 1 each year. Filling it out promptly can qualify you for federal aid, loans, and grants. Some schools may also require the CSS Profile for additional financial aid consideration. Also, research scholarships that align with your achievements, background, or intended field. Keep in mind that some scholarships are due before the early application deadline!"
+                ]
+            },
+            {
+                "heading": "Submit with Confidence",
+                "texts": [
+                    "After all the preparation, it’s time to hit “submit”! Pay close attention to deadlines, as missing one could delay your application and significantly reduce your chance of admission. Double-check that all sections are complete, and don’t be afraid to ask someone to review your application for any final tweaks."
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    "Applying to college may feel like a complex puzzle, but approaching each step with a plan can make the process much more manageable. Remember, this journey is about finding a school where you can thrive and grow. Take it one step at a time, and know that you’re investing in your future."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "7"
+    },
+    {
+        "heading": "Choosing a Major: How to Decide and Why It’s Okay to Be Undecided",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "“What’s your major?” can feel like a daunting question, especially if you’re unsure of your answer. Many students feel pressured to choose a field before they’ve even explored their interests. Here’s the truth: It’s okay to be undecided, and the process of choosing a major can be one of exploration and discovery. Here’s how to approach it:",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "Reflect on Your Interests",
+                "texts": [
+                    "Start by thinking about subjects and activities that genuinely engage you. What do you enjoy doing in your free time? What types of problems do you like solving? Your initial interests can serve as a guide, even if you’re unsure how they translate into a career. For instance, a love for problem-solving could lead to fields like engineering, computer science, or business."
+                ]
+            },
+            {
+                "heading": "Explore Different Fields",
+                "texts": [
+                    "If you’re unsure, take advantage of general education requirements to explore different disciplines. Many colleges offer “Intro to…” courses, which allow you to experience a field without a long-term commitment. Whether it’s psychology, environmental studies, or creative writing, sampling different subjects can reveal interests you hadn’t considered before."
+                ]
+            },
+            {
+                "heading": "Seek Advice from Advisors and Mentors",
+                "texts": [
+                    "Academic advisors and professors can be incredible resources when exploring potential majors. Many colleges also connect students with alumni or industry professionals who can share real-world insights into different career paths. These conversations can help you understand what each field involves day-to-day."
+                ]
+            },
+            {
+                "heading": "Understand That It’s Okay to Change",
+                "texts": [
+                    "Did you know that around 30% of students change their major at least once during college? Committing to a major doesn’t mean you’re locked into a path forever. Interests evolve, and that’s okay! The flexibility to explore different options in college is there for a reason."
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    "Ultimately, college is a time of self-discovery. If you’re undecided, embrace it as an opportunity to learn about yourself and new possibilities. By exploring your passions and strengths, you’ll eventually find a field that feels like the right fit."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "8"
+    },
+    {
+        "heading": "Secrets to Securing Strong Letters of Recommendation",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "A well-crafted letter of recommendation can make a significant difference in college admissions, giving officers a glimpse into who you are beyond grades and test scores. Here’s how to ensure you get letters that highlight your strengths and showcase your potential.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "Choose the Right Recommenders",
+                "texts": [
+                    "Start by considering who knows you best. Teachers, coaches, or mentors who have seen your growth, dedication, and unique qualities firsthand can provide the most powerful recommendations. For instance, a teacher who’s seen you overcome challenges or a coach who knows your work ethic can speak to your character in ways that resonate with admissions officers."
+                ]
+            },
+            {
+                "heading": "Ask Early",
+                "texts": [
+                    "Many students ask for recommendations in the fall of senior year, making it a busy season for teachers and counselors. Reach out a month or two in advance to give them plenty of time to write a thoughtful, detailed letter. A last-minute request may lead to a rushed or generic recommendation, which won’t help your application stand out."
+                ]
+            },
+            {
+                "heading": "Provide Context and Details",
+                "texts": [
+                    "To make it easier for your recommenders to write a meaningful letter, provide context. Share a list of colleges you’re applying to, your intended major, and any specific qualities or achievements you’d like highlighted. You could also include a resume or a brief note about your future goals. This context helps your recommender paint a fuller picture of your strengths."
+                ]
+            },
+            {
+                "heading": "Follow Up with Gratitude",
+                "texts": [
+                    "After your recommender has submitted their letter, send a thank-you note. Expressing appreciation not only shows respect for their time and effort but also helps maintain a positive relationship for future references.",
+                    "By choosing recommenders wisely, asking early, and sharing your goals, you’ll ensure that your recommendation letters reflect the qualities and achievements that make you a strong candidate. With these letters in hand, you’ll have yet another piece of your application that helps admissions officers see the person behind the application."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "9"
+    },
+    {
+        "heading": "How to Make the Most of Your Summer Before College Applications",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "The summer before senior year is a golden opportunity to prepare for college applications, and there are many ways to make this time productive. Here’s how to make the most of your summer while also enjoying a well-deserved break.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "1. Dive into Your Interests",
+                "texts": [
+                    "Colleges value genuine passion and commitment, so use the summer to deepen your knowledge in areas you’re interested in. Whether it’s coding, creative writing, or science research, pursuing these interests shows admissions officers your dedication. Look for summer programs, workshops, or online courses that can help you grow."
+                ]
+            },
+            {
+                "heading": "2. Volunteer or Find Internships",
+                "texts": [
+                    "Hands-on experience through internships or volunteering is a great way to explore career interests and build skills. These experiences also provide stories and accomplishments to share in your application essays. Reach out to local businesses, nonprofits, or community organizations where you can contribute."
+                ]
+            },
+            {
+                "heading": "3. Start Drafting Your Personal Statement",
+                "texts": [
+                    "Starting your college essays early can save you a lot of stress in the fall. Use the summer to brainstorm and draft your personal statement. Take your time to reflect on your unique experiences, and don’t be afraid to write a few drafts to find your voice."
+                ]
+            },
+            {
+                "heading": "4. Visit Colleges (Even Virtually)",
+                "texts": [
+                    "If you’re able to visit some colleges in person, take the opportunity to get a feel for the campus and culture. If not, many schools offer virtual tours that allow you to explore campuses from home. Visiting schools can help you understand what you’re looking for in a college."
+                ]
+            },
+            {
+                "heading": "5. Plan for Standardized Tests",
+                "texts": [
+                    "If you still need to take or retake standardized tests, use the summer to prepare. With fewer school commitments, you can dedicate time to practicing, and you may even see an improvement in your scores by the fall."
+                ]
+            },
+            {
+                "heading": "By the time senior year begins, you’ll be glad you used your summer to prepare. Balancing these steps with some rest and relaxation will help you approach the admissions process feeling ready and confident.",
+                "texts": [
+                    ""
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "10"
+    },
+    {
+        "heading": "Financial Aid 101: How to Get Started with FAFSA and Scholarships",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "Navigating financial aid can seem overwhelming, but understanding the basics can make it easier to plan for college costs. Here’s a beginner’s guide to financial aid, the FAFSA, and scholarships.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "1. Start with the FAFSA",
+                "texts": [
+                    "The FAFSA (Free Application for Federal Student Aid) is a form that determines your eligibility for federal financial aid, such as grants, loans, and work-study programs. The FAFSA opens on October 1 each year, and it’s a good idea to complete it as soon as possible, as some aid is awarded on a first-come, first-served basis."
+                ]
+            },
+            {
+                "heading": "2. Understand Federal Aid Options",
+                "texts": [
+                    "The FAFSA can qualify you for several types of aid:",
+                    "/list_item/- Grants: Free money that doesn’t need to be repaid, often based on financial need.",
+                    "/list_item/- Loans: Borrowed money that must be repaid, typically with interest. Federal loans tend to have lower interest rates than private loans",
+                    "/list_item/- Work-Study: Part-time jobs on campus or nearby that help students earn money while studying."
+                ]
+            },
+            {
+                "heading": "3. Look for Scholarships",
+                "texts": [
+                    "Scholarships are offered by colleges, nonprofits, companies, and other organizations. Start by looking at your school’s scholarships and local awards, and then expand to national scholarships. Many scholarships have specific eligibility requirements, so look for ones that match your achievements or background."
+                ]
+            },
+            {
+                "heading": "4. Consider Financial Aid Appeals",
+                "texts": [
+                    "If your family’s financial situation changes after submitting the FAFSA, you can appeal your aid package. This is especially relevant if there’s been a significant event, like a job loss, that impacts your family’s income."
+                ]
+            },
+            {
+                "heading": "Planning for college costs can feel challenging, but taking proactive steps and exploring all available options can make college more affordable. Start with the FAFSA, explore scholarships, and remember that financial aid offices are there to help with any questions you have.",
+                "texts": []
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "11"
+    },
+    {
+        "heading": "How to Stand Out in Your College Application",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "With so many students applying to college, standing out can feel tough. But the key isn’t to be someone you’re not—it’s to showcase your authentic self in a way that highlights your strengths, goals, and character. Here’s how to make a memorable impression on admissions officers.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "1. Tell Your Unique Story",
+                "texts": [
+                    "Use your personal statement to share experiences that shaped you. Rather than listing achievements, dive into a specific story that reflects your values, growth, or challenges. Colleges want to know what makes you, you—so choose moments that highlight your journey."
+                ]
+            },
+            {
+                "heading": "2. Highlight Extracurriculars That Matter",
+                "texts": [
+                    "Instead of joining a dozen clubs, focus on a few activities that genuinely interest you. Admissions officers value quality over quantity, so emphasize the roles where you’ve made a meaningful impact. Whether it’s leading a club, playing sports, or volunteering, show your commitment and growth."
+                ]
+            },
+            {
+                "heading": "3. Show Initiative",
+                "texts": [
+                    "Have you taken the lead on a project, started an organization, or pursued an independent interest? Colleges value students who show initiative and a willingness to go beyond what’s required. Highlight any self-driven projects or achievements to demonstrate your motivation."
+                ]
+            },
+            {
+                "heading": "4. Connect Your Goals with the College’s Offerings",
+                "texts": [
+                    "In supplemental essays, research the college’s programs and mention specific aspects that align with your goals. Whether it’s a particular major, research opportunity, or student organization, showing that you’ve done your homework helps admissions officers see why you’re a good fit."
+                ]
+            },
+            {
+                "heading": "5. Get Strong Recommendations",
+                "texts": [
+                    "Letters of recommendation offer an outside perspective on your strengths. Choose teachers or mentors who can speak to your character and achievements, and provide them with context about your goals. A personal, enthusiastic recommendation can make a big difference."
+                ]
+            },
+            {
+                "heading": "Standing out in college applications doesn’t mean you have to have a perfect GPA or a long list of achievements. It’s about showing your personality, resilience, and genuine interests. Be true to yourself, and let your application reflect who you are.",
+                "texts": []
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "12"
+    },
+    {
+        "heading": "The Importance of Building a Strong College Application Timeline",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "Staying on top of deadlines and requirements is crucial when applying to colleges. Without a solid timeline, it’s easy to feel overwhelmed by the process. To ensure you’re on track and avoid last-minute stress, here’s how to build a strong college application timeline.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "1. Start Early",
+                "texts": [
+                    "It’s never too soon to start planning. Begin your college search in the spring or summer before your senior year of high school. Use this time to research colleges, take virtual tours, and compile a list of schools that interest you. This early preparation will help you stay ahead of the game when application season arrives."
+                ]
+            },
+            {
+                "heading": "2. Create a List of Application Deadlines",
+                "texts": [
+                    "Each college has its own deadlines, so it’s important to create a calendar of when each application is due. Keep track of important dates, such as Early Decision or Early Action deadlines, Regular Decision deadlines, and financial aid submission dates. This will help you prioritize tasks and avoid missing any critical deadlines."
+                ]
+            },
+            {
+                "heading": "3. Break Down the Application Tasks",
+                "texts": [
+                    "Applying to college involves several steps: filling out applications, writing essays, requesting letters of recommendation, and submitting test scores. To prevent feeling overwhelmed, break these tasks down into manageable chunks. For example, you might set aside a weekend to work on your personal statement or dedicate time each week to gather your application materials."
+                ]
+            },
+            {
+                "heading": "4. Set Milestones for Each Step",
+                "texts": [
+                    "Instead of waiting until the last minute to finish everything, set specific goals for each stage of the process. For example, aim to finish your personal statement by a certain date or have your letters of recommendation requested by the end of the month. Meeting these milestones will ensure that you stay on track and avoid procrastination."
+                ]
+            },
+            {
+                "heading": "5. Review and Revise Your Applications",
+                "texts": [
+                    "Before submitting any applications, give yourself time to review and revise. Have someone else—whether it’s a parent, teacher, or mentor—look over your application materials to catch any mistakes or offer feedback. You’ll want to submit your best work, so don’t rush through this final step",
+                    "By building a timeline and sticking to it, you can stay organized and feel confident as you move through the college application process. Remember, preparation is key, and by staying ahead of the game, you’ll set yourself up for success."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "13"
+    },
+    {
+        "heading": "You’re in your Junior or Senior Year and Don’t Have ECs; what should you do?",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "If you're in your junior or senior year of high school and don't have many extracurricular activities (ECs), it's not too late to start building a strong portfolio. While starting late can feel challenging, there are still plenty of opportunities to make an impact and showcase your interests and skills. Here’s what you can do:",
+            "texts": []
+        },
+        "sections": [],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "6"
+    },
+    {
+        "heading": "Making the Most of Your College Campus Visit",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "A college campus visit is one of the best ways to get a feel for what life will be like at a particular school. Whether you're visiting in person or virtually, here are some tips to make sure you get the most out of your campus visit:",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "1. Research the College Before You Visit",
+                "texts": [
+                    "Before stepping onto campus (or logging into a virtual tour), do your homework. Look into the college’s academic programs, student organizations, and campus culture. This will help you ask thoughtful questions and give you a better idea of what to look for during your visit."
+                ]
+            },
+            {
+                "heading": "2. Take a Campus Tour",
+                "texts": [
+                    "Most colleges offer guided tours, either in person or virtually. These tours are a great way to see the campus, check out dorms, classrooms, and other facilities, and get a sense of the campus vibe. Pay attention to the spaces where students spend their time and how they interact with the environment."
+                ]
+            },
+            {
+                "heading": "3. Attend Information Sessions",
+                "texts": [
+                    "Many colleges host information sessions during campus visits, where admissions officers give an overview of the school and answer questions. These sessions are a great opportunity to learn more about the application process, financial aid, and the student experience."
+                ]
+            },
+            {
+                "heading": "4. Ask Questions",
+                "texts": [
+                    "Don’t be afraid to ask questions. Speak with current students, professors, and staff members to get a sense of the academic environment and campus culture. Some good questions might include: What’s the workload like? What are some of the most popular campus clubs? How accessible are professors?"
+                ]
+            },
+            {
+                "heading": "5. Take Notes and Reflect",
+                "texts": [
+                    "After your visit, take some time to reflect on your experience. Write down your thoughts, feelings, and any impressions you have of the school. This will help you when it comes time to make decisions about where to apply and ultimately where to enroll.",
+                    "A campus visit gives you a chance to explore the college in a more personal way. By being prepared, asking the right questions, and reflecting on your visit, you can make an informed decision about where you want to apply and attend."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "14"
+    },
+    {
+        "heading": "The Last-Minute Rush",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "As the college application deadline loomed closer, I found myself in a familiar predicament: procrastination. Despite having months to prepare, I waited until the last few weeks to start my applications. This experience taught me valuable lessons about time management and self-discipline.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "Introduction",
+                "texts": [
+                    "Initially, I was excited about applying to college. I researched schools and even started drafting my personal statement. However, as deadlines approached, I became overwhelmed by pressure and expectations. Instead of tackling my tasks head-on, I filled my days with distractions—scrolling through social media, binge-watching shows, and hanging out with friends.",
+                    "When I finally sat down to work on my applications, panic set in. I rushed through my essays, sacrificing quality for speed. The stress was palpable; I was sleep-deprived and frazzled. As a result, I submitted my applications without confidence."
+                ]
+            },
+            {
+                "heading": "Lessons Learned",
+                "texts": [
+                    "Looking back, I realized that procrastination stemmed from fear—fear of failure and fear of making the wrong choice. If I had started earlier and broken tasks into manageable chunks, I could have approached the process with confidence. Now, I encourage others to start early and seek help when needed."
+                ]
+            },
+            {
+                "heading": "Conclusion",
+                "texts": [
+                    "Procrastination can lead to unnecessary stress and subpar work. By recognizing the signs early on and developing a proactive approach, future applicants can avoid the pitfalls I encountered."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "15"
+    },
+    {
+        "heading": "The Distraction Dilemma",
+        "imageURL": "https://img.freepik.com/premium-photo/from-junior-senior-symbol-turned-cubes-changed-word-junior-senior_606207-161.jpg",
+        "mainSection": {
+            "heading": "Procrastination can be a slippery slope, especially when it comes to something as significant as college applications. My experience was a classic case of distraction taking precedence over important tasks.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "The Temptation of Distractions",
+                "texts": [
+                    "With deadlines approaching, I found myself gravitating toward distractions that seemed harmless at first—video games, online shopping, and endless scrolling through TikTok. Each time I sat down to work on my application, a notification would pop up or a new episode would beckon me."
+                ]
+            },
+            {
+                "heading": "The Wake-Up Call",
+                "texts": [
+                    "It wasn’t until the night before my first deadline that reality hit me hard. I had barely completed any essays or even filled out basic information on the application portal. In a panic, I pulled an all-nighter fueled by caffeine and anxiety."
+                ]
+            },
+            {
+                "heading": "Reflections",
+                "texts": [
+                    "The experience taught me the importance of creating a focused environment. By turning off notifications and setting specific times for work versus leisure, I could have avoided this last-minute chaos."
+                ]
+            },
+            {
+                "heading": "Conclusion",
+                "texts": [
+                    "Distractions are everywhere in our digital age. By establishing boundaries with technology during critical periods, students can maintain focus and ensure they meet their deadlines without unnecessary stress."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "16"
+    },
+    {
+        "heading": "The Perfectionism Trap",
+        "imageURL": "",
+        "mainSection": {
+            "heading": "As someone who has always strived for perfection, procrastination became my coping mechanism during the college application process. This journey revealed how perfectionism can hinder progress.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "The Pressure to Be Perfect",
+                "texts": [
+                    "I spent countless hours obsessing over every detail of my essays and application materials. Each time I sat down to write, I felt paralyzed by the need to produce something flawless. This led me to delay starting altogether."
+                ]
+            },
+            {
+                "heading": "The Realization",
+                "texts": [
+                    "After weeks of inaction, I finally sought advice from a mentor who reminded me that perfection is unattainable and that authenticity matters more than flawless writing. This conversation sparked a shift in my mindset."
+                ]
+            },
+            {
+                "heading": "Moving Forward",
+                "texts": [
+                    "I learned that it’s essential to embrace imperfection and focus on progress rather than perfection. By allowing myself to write freely without judgment initially, I was able to create meaningful content that truly represented who I am."
+                ]
+            },
+            {
+                "heading": "Conclusion",
+                "texts": [
+                    "Perfectionism can be paralyzing during critical moments like college applications. Embracing imperfection not only alleviates pressure but also allows for genuine self-expression in writing."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "17"
+    },
+    {
+        "heading": "Understanding the College Admissions Process: A Comprehensive Guide",
+        "imageURL": "",
+        "mainSection": {
+            "heading": "The college admissions process can seem overwhelming, but understanding each step can make it easier to navigate. This guide breaks down each phase, including timelines, key requirements, and decision types.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "sections",
+                "texts": []
+            },
+            {
+                "heading": "Types of Admissions (Early Decision, Early Action, Regular Decision):",
+                "texts": [
+                    "Early Decision applications are binding—if accepted, students must attend the school. Early Action applications are non-binding, offering an early response but without a commitment. Regular Decision applications are due later, giving students more time to work on materials. Tips: Early Decision is best for students certain about their top choice, while Regular Decision allows time to refine the application."
+                ]
+            },
+            {
+                "heading": "Application Components:",
+                "texts": [
+                    "Each application has several parts:",
+                    "/list_item/- Transcripts provide academic history.",
+                    "/list_item/- Letters of Recommendation offer insights into character and accomplishments.",
+                    "/list_item/- Essays showcase the applicant's voice and story.",
+                    "/list_item/- Test Scores (SAT/ACT) are often optional, but strong scores can enhance an application.",
+                    "/list_item/- Extracurriculars highlight involvement and leadership.",
+                    "/list_item/- Interviews may be optional but can help applicants stand out. Tip: Start early with ",
+                    "/list_item/- transcript requests and recommendations to avoid delays."
+                ]
+            },
+            {
+                "heading": "Common App vs. Coalition App vs. School-Specific Applications:",
+                "texts": [
+                    "Many colleges accept the Common Application and Coalition Application, which allow students to submit to multiple schools with one application. However, some colleges require their own applications, especially public universities.Tip: Use tools like the Common App to simplify the application process, but always check each school’s unique requirements."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "18"
+    },
+    {
+        "heading": "How to Write an Impactful College Admissions Essay",
+        "imageURL": "",
+        "mainSection": {
+            "heading": "The college essay is an opportunity for students to share their unique stories and perspectives. This guide offers tips on crafting a memorable essay that leaves a lasting impression.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "sections",
+                "texts": [
+                    ""
+                ]
+            },
+            {
+                "heading": "Choosing a Topic:",
+                "texts": [
+                    "The best topics are personal, specific, and revealing. Think about defining moments, interests, or values that shape who you are.Tip: Avoid common topics unless you can add a fresh perspective."
+                ]
+            },
+            {
+                "heading": "Finding Your Voice:",
+                "texts": [
+                    "Authenticity is key. Admissions officers read thousands of essays, so honesty and personal voice can set an essay apart."
+                ]
+            },
+            {
+                "heading": "Structuring the Essay:",
+                "texts": [
+                    "A clear structure (introduction, body, conclusion) helps keep the reader engaged. Start with an interesting hook and end with a reflection on what you learned or how you grew.Tip: Aim for a concise, focused story rather than trying to cover too much."
+                ]
+            },
+            {
+                "heading": "Revising and Editing:",
+                "texts": [
+                    "Proofreading and revising are essential to polish the essay. It’s helpful to get feedback from a teacher or mentor, but remember that the voice should remain yours.Tip: Leave time between drafts to gain fresh perspective on your work."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "19"
+    },
+    {
+        "heading": "",
+        "imageURL": "",
+        "mainSection": {
+            "heading": "",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "Mastering College Interviews: Tips for Success",
+                "texts": [
+                    "The college interview is a chance for students to showcase their personality and enthusiasm beyond the written application. Here’s how to make the most of this opportunity."
+                ]
+            },
+            {
+                "heading": "Sections:",
+                "texts": [
+                    ""
+                ]
+            },
+            {
+                "heading": "Preparing for Common Questions:",
+                "texts": [
+                    "Practice responses to questions like “Why do you want to attend this college?” and “Tell me about yourself.” Tailor answers to highlight unique qualities and goals.Tip: Research each college beforehand to tailor your responses."
+                ]
+            },
+            {
+                "heading": "Showcasing Genuine Interest:",
+                "texts": [
+                    "Colleges want students who are enthusiastic about their programs. Bring up specific aspects of the school that excite you, like clubs, courses, or campus culture.Tip: Mention something specific about the college that aligns with your goals."
+                ]
+            },
+            {
+                "heading": "Asking Thoughtful Questions:",
+                "texts": [
+                    "Asking questions shows that you’re genuinely interested in the college. Questions about specific programs or campus culture can demonstrate that you’ve done your homework.Tip: Prepare questions in advance and ask ones that show depth and curiosity."
+                ]
+            },
+            {
+                "heading": "Body Language and Presentation:",
+                "texts": [
+                    "First impressions matter, so present yourself confidently. Practice good posture, eye contact, and a firm handshake (if in person).Tip: In virtual interviews, make sure your background is neat and avoid distractions."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "20"
+    },
+    {
+        "heading": "",
+        "imageURL": "",
+        "mainSection": {
+            "heading": "",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "",
+                "texts": [
+                    ""
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    ""
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    ""
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    ""
+                ]
+            },
+            {
+                "heading": "",
+                "texts": [
+                    ""
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "21"
+    },
+    {
+        "heading": "Maximizing Extracurriculars for College Applications",
+        "imageURL": "",
+        "mainSection": {
+            "heading": "Extracurricular activities can greatly enhance a college application, showing leadership, dedication, and passion. Here’s how to present your activities to stand out.",
+            "texts": []
+        },
+        "sections": [
+            {
+                "heading": "Choosing Activities with Impact:",
+                "texts": [
+                    "Colleges look for depth rather than breadth. Focus on activities where you’ve taken on responsibility or shown commitment over time.Tip: Emphasize long-term involvement over a broad range of short-term activities."
+                ]
+            },
+            {
+                "heading": "Highlighting Leadership and Achievements:",
+                "texts": [
+                    "Leadership roles and tangible achievements, like organizing events or winning awards, show initiative and impact."
+                ]
+            },
+            {
+                "heading": "Connecting Activities to Your Story:",
+                "texts": [
+                    "Think about how your activities align with your academic and career goals.Tip: Write about how these experiences influenced your aspirations or developed skills you’ll use in college."
+                ]
+            },
+            {
+                "heading": "Avoiding the Overload Trap:",
+                "texts": [
+                    "Quality over quantity is key. Choose a few meaningful activities rather than trying to fill every possible space in the application.Tip: Select activities that truly represent who you are rather than trying to impress with volume."
+                ]
+            }
+        ],
+        "author": {
+            "name": ""
+        },
+        "description": "",
+        "date": "",
+        "id": "22"
     }
-
 ]
